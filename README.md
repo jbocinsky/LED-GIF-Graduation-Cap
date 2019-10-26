@@ -1,5 +1,5 @@
-# GifMatrix
-Simple gif/text program for a LED Matrix
-
-Heavily based on https://github.com/pixelmatix/AnimatedGIFs
 # LED-GIF-Graduation-Cap
+
+Forked from [Garret Yoder's project](https://github.com/garretyoder/GifMatrix)
+
+A blog post tutorial on this project is available [here](http://www.jbocinsky.com/GraduationCap/)
